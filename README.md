@@ -1,6 +1,4 @@
-<img src="" align="left" width="100" height="200"/>
-
-Version 9.2.2 (29659)
+<img src="https://github.com/TelegramBeta/Telegram/blob/main/Assets/telegram.png" align="left" width="150px" height="auto"/> Version 9.2.2 (29659)
 
 Dec 17,  2022
 
