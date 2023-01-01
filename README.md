@@ -1,4 +1,4 @@
-<img src="https://github.com/TelegramBeta/Telegram/blob/main/Assets/telegram.png" align="left" width="150px" height="auto"/> Version 9.3.0 (30229)
+[<img src="https://github.com/TelegramBeta/Telegram/blob/main/Assets/telegram.png" align="left" width="150px" height="auto"/>](https://github.com/TelegramOfficial/TelegramBeta) Version 9.3.0 (30229)
 
 Dec 02,  2023
 
